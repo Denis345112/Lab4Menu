@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Легкий"
+        android:id="@+id/easy" />
+    <item
+        android:id="@+id/medium"
+        android:title="Средний" />
+    <item
+        android:id="@+id/hard"
+        android:title="Сложный" />
+</menu>
